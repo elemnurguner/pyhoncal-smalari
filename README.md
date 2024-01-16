@@ -1,0 +1,2 @@
+# pyhoncal-smalari
+genelcalısmalarim
